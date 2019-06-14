@@ -1,2 +1,2 @@
 # Logic2048
-Puzzle
+Puzzle c++
